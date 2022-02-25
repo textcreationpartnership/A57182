@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the vanity of the creature by a person of honour.</title>
+            <author>Radnor, John Robartes, Earl of, 1606-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57182</idno>
+            <idno type="STC">Wing R131</idno>
+            <idno type="STC">ESTC R17178</idno>
+            <idno type="EEBO-CITATION">12599611</idno>
+            <idno type="OCLC">ocm 12599611</idno>
+            <idno type="VID">64136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 330:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the vanity of the creature by a person of honour.</title>
+                  <author>Radnor, John Robartes, Earl of, 1606-1685.</author>
+               </titleStmt>
+               <extent>[3], 5-31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock for Richard Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Robartes, Earl of Radnor. Cf. Wing; NUC pre-1956.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pride and vanity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64136:1"/>
+            <pb facs="tcp:64136:1"/>
+            <p>A DISCOURSE OF THE VANITY OF THE CREATURE</p>
+            <p>By a Perſon of Honour.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Macock</hi> for <hi>Richard Royſton,</hi> Book-ſeller to the Kings Moſt Excellent Majeſty, 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:64136:2"/>
+            <pb n="5" facs="tcp:64136:2"/>
+            <head>To ſpeak of nothing, is no good motive to attention; yet, to offer you a Diſcourſe of leſs than nothing, may invite your ears, whilſt Curioſity may raiſe an expectation; and that may make you tarry to hear. What this may be, you'll find it in my Text.</head>
+            <epigraph>
+               <q>
+                  <bibl>Eccleſiaſtes 1. Verſ. 2.</bibl>
+                  <p>
+                     <hi>Vanity of Vanities,</hi> (ſaith the Preacher) <hi>Vanity of Vanities, all is Vanity.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THE Text is a deſcription of all worldy things; there is not any thing which falls not under this: the He<g ref="char:EOLhyphen"/>brew hath it, <hi>moſt vain va<g ref="char:EOLhyphen"/>nity;</hi> all the creſted Plumes of Honour, all the Treaſures of the Univerſe, with all the delights and pleaſures of it, ex<g ref="char:EOLhyphen"/>tended and ſumm'd up by a moſt able and moſt experienced Accomptant, a<g ref="char:EOLhyphen"/>mount unto no more than <hi>Vanity of va<g ref="char:EOLhyphen"/>nities</hi> (ſaith the Preacher,) <hi>Vanity of va<g ref="char:EOLhyphen"/>nities, all is vanity.</hi>
+            </p>
+            <p>Obſervable in the words are, firſt an <hi>Aſſertion, Vanity of vanities.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:64136:3"/>
+Secondly, The <hi>Aſſertor</hi> (ſaith the Preacher.)</p>
+            <p>Thirdly, The duplication of the Aſ<g ref="char:EOLhyphen"/>ſertion, <hi>Vanity of Vanities.</hi>
+            </p>
+            <p>Fourthly, The Univerſality of the Aſſertion, <hi>All is Vanity.</hi>
+            </p>
+            <p>But is not Man, at leaſt-wiſe, the great Men of the Earth, excepted? Are not Kings and Rulers of the Earth, whoſe pompous Trains and numerous Attendance, ſtriking awe and terrour in the Beholders, ſerious things? And if ſingle perſons be not, are not Armies with Banners terrible? Are not the Na<g ref="char:EOLhyphen"/>tions of the Earth, when united, great and conſiderable? And if all theſe things were not ſo, is not the flux of Mankind the propagation of Ages to come? Im<g ref="char:EOLhyphen"/>mortality, which is denied to perſons, yet granted to the kind, a noble and magnificent thing? Some one might think thus: Did not a King inſpired with a divine Oracle ſay, <hi>That every man in his beſt eſtate is altogether vanity?</hi> not only ſome men, but every man; not on<g ref="char:EOLhyphen"/>ly every man in a low condition, but in his beſt eſtate; not only in reſpect of mutable dependencies, which make bright Fortunes britler, but altogether vanity. As for the heaps of Mankind,
+<pb n="7" facs="tcp:64136:3"/>
+they ſerve but for their own oppreſſion, and are like thoſe in throngs, where eve<g ref="char:EOLhyphen"/>ry one ſtrives to be foremoſt, although they know the moſt muſt come behind; and what is this Combination of men but a great bubble? <hi>All the Inhabitants of the</hi> 
+               <note place="margin">Dan. 4. 35.</note> 
+               <hi>Earth are reputed as nothing: all Nations</hi> 
+               <note place="margin">Eſa. 40. 17.</note> 
+               <hi>before God are as nothing, and they are ac<g ref="char:EOLhyphen"/>counted to him leſs than nothing and vanity;</hi> they are altogether lighter than vanity; and then what is it but to be leſs than nothing, and that is vanity. Negation of a Being is in ſilent darkneſs, but vanity is a cheat, a counterfeit of a Being which is not: <hi>Why wilt thou ſet thy heart upon that</hi> 
+               <note place="margin">Pſal. 62. 7.</note> 
+               <hi>which is not?</hi> And as to the immortality annexed to the kind, what is it but the production of mortality, ſince the gene<g ref="char:EOLhyphen"/>ration of one muſt be the corruption of another, and ſo no otherwiſe can pretend to a notion of immortality but by perpe<g ref="char:EOLhyphen"/>tuating death? And if the Maxim be true, The whole Nature of the Species is pre<g ref="char:EOLhyphen"/>ſerved in the Individual of the kind; the Species or kind may be ſaid to dye when the Individual doth, and ſo properly would, were there not others to ſupport that notion: and this is all that <hi>Chime<g ref="char:EOLhyphen"/>rical</hi> Immortality. When <hi>Xerxes</hi> muſtered his numerous Army of five hundred thou<g ref="char:EOLhyphen"/>ſand
+<pb n="8" facs="tcp:64136:4"/>
+men, (if we believe <hi>Herodotus)</hi> it is ſaid he wept upon the conſideration of their approaching <hi>Funerals,</hi> which was to be diſpatched, as to every member there<g ref="char:EOLhyphen"/>of, within one Century, though it fell out much ſooner: whereby it appeared, that there was no force comparable to that of death, which ſwept them all away.</p>
+            <p>We ſhall now deſcend to examine the words more particularly in reſpect of the Honours, Treaſures, and Pleaſures of this life, and ſearch if either of theſe can evade from this ſevere cenſure of <hi>Solo<g ref="char:EOLhyphen"/>mon. Vanity</hi> is an appearance of ſome<g ref="char:EOLhyphen"/>thing which is not; Honour hath the Trappings of this World, it commands the caps and knees of men, it hath the attendances and dependencies of Suitors and Followers; it hath the breath and applauſe of multitudes; when <hi>Herod</hi> ſpeaks, <hi>It is the voice of God and not of man,</hi> crys the people. The Deſcents and Genea<g ref="char:EOLhyphen"/>logies of ſome have been boaſted, and endeavoured to be propagated even be<g ref="char:EOLhyphen"/>yond Mankind. <hi>Julius Caeſar</hi> ſaid that by his Fathers ſide he was derived from Kings, by his Mother from the Gods; and how many beſides <hi>Hercules</hi> and <hi>A<g ref="char:EOLhyphen"/>chilles</hi> have pretended to ſuch Lineage? The Emperours of <hi>Conſtantinople,</hi> as to
+<pb n="9" facs="tcp:64136:4"/>
+their Extraction, were held ſo Noble, that it was ſaid of them, they were all ingendred of Purple, forgetting the ſeat we have in the womb, <hi>inter ſterous &amp; urinam.</hi> Of which <hi>Pliny</hi> ſays, <hi>Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dius ſterquilinium nuſquam videtur;</hi> yet muſt all this be forgotten, and by the vain, ſo well as fooliſh pride of man, claim muſt be laid to Divinity it ſelf. So <hi>Alexander</hi> the Great feigned himſelf greater by an extraction from <hi>Jupiter,</hi> and through the flattery of the Prieſts of <hi>Jupiter Ham<g ref="char:EOLhyphen"/>mon</hi> muſt be owned as his <hi>Off ſpring.</hi> A ſorry <hi>Clear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> of <hi>Pontus</hi> would be no leſs than <hi>Jupiter; Latian <g ref="char:V">Ʋ</g>lyſſes,</hi> to encounter the Argument of <hi>Ajax,</hi> who pretended a deſcent on the one ſide from the Gods, aſſerts himſelf on both ſides to be ſo de<g ref="char:EOLhyphen"/>ſcended, <hi>Deus eſt in utro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> parente.</hi>
+            </p>
+            <p>Volumes may be made in ſumming the Pretenders to this kind of Poetical He<g ref="char:EOLhyphen"/>raldry; I ſhall only refer theſe extrava<g ref="char:EOLhyphen"/>gant Pretenders to what all of them have now felt, being a better record of the deſcent of men; <hi>I have ſaid to corruption</hi> 
+               <note place="margin">Job 17. 14.</note> 
+               <hi>thou art my father, and to the worm thou art my mother.</hi> And as there is a vanity in theſe impoſſible pretences above men<g ref="char:EOLhyphen"/>tioned, ſo is there in the Pageantry of the Genealogies among men. The an<g ref="char:EOLhyphen"/>cient
+<pb n="10" facs="tcp:64136:5"/>
+               <hi>Britains</hi> muſt have no leſs Founder of their Race than <hi>Brutus</hi> the <hi>Trojan,</hi> if <hi>Geffrey</hi> of <hi>Monmouth</hi> may be believed, and ſingle perſons would ſtrive to be of kin to ſome famous perſon or houſe by the moſt evident concluſions of truth and reaſon, not remembring the Poet herein to be a Prophet; to wit, <hi>Majorum primus quiſquis fuit ille tuarum, aut paſtor fuit, aut alius quem dicere nolo;</hi> and this is va<g ref="char:EOLhyphen"/>nity in <hi>Mood</hi> without a <hi>Figure,</hi> but when we ſhall ſee this improved to a challenge and belief of Immortality, he, as <hi>Ptolomy Philadelphos</hi> ſaid, that he had found the way to live always upon earth. We may then think <hi>Solomons</hi> multiplication very proper, as to theſe things; <hi>Vanity of va<g ref="char:EOLhyphen"/>nities.</hi>
+            </p>
+            <p>Now as ſome men boaſt of their de<g ref="char:EOLhyphen"/>ſcent, though our bodies are made but of a mud wall, and all Nations are made of one blood, and all perſons deſcended from one man, ſo others pretend to ho<g ref="char:EOLhyphen"/>nour with their actions by conquering Kingdoms, deſtroying Armies, making many wretched, multiplying the number of the dead; burning Cities, deſtroying houſes, uſing cruelties, changing Govern<g ref="char:EOLhyphen"/>ments, trampling down Laws, thinking they have much honour when they have
+<pb n="11" facs="tcp:64136:5"/>
+much power, and are then truly great when they have made ſuch little; but what is this more than to be Butchers of men? Is it brave to exerciſe <hi>ferine</hi> cruel<g ref="char:EOLhyphen"/>ty on our fellow Creatures? Is it a bleſſed condition to make others wretched? to uſe the natural force, common with beaſts, and leave the moral, proper to man? Can it be thought brave to be a great Thief (as the Pirate told <hi>Alexan<g ref="char:EOLhyphen"/>der)</hi> and infamous to be a little one? Is not the Sword bloody enough, unleſs it kill whole Nations? and muſt glory be acquired by the deſtruction of States? How much better were it ſaid of <hi>Pericles</hi> the <hi>Athenian,</hi> ſirnamed <hi>Olympius,</hi> which title, ſome ſay, was given him for his ſu<g ref="char:EOLhyphen"/>pereminent eloquence. Other Writers, for this, that being long a powerful man in <hi>Athens,</hi> he never abuſed his power ſo far, as to cauſe any Citizen to wear a black Gown; where then is the honour of theſe Executioners of the World, theſe general Hangmen and Butchers of Mankind? Is not that office held igno<g ref="char:EOLhyphen"/>minious among men; albeit theſe are uſually the Miniſters of Juſtice, they of injuſtice? Doth the <hi>Crown</hi> endure to all generations? Are they not often made the <hi>Footſtools</hi> of Power, who had domi<g ref="char:EOLhyphen"/>neer'd
+<pb n="12" facs="tcp:64136:6"/>
+in the Throne over others? Is not Hiſtory full of the variety and calamity of Princes? How often they that have reigned over others, have been made ſubject to the vileſt death by others? How often Families have been thrown out as well as Princes from their Thrones? and how the forms of Go<g ref="char:EOLhyphen"/>vernments themſelves have changed, and yet muſt the Map of their Magnificence be drawn out with the purple gore and blood of Mankind? Is it bravery to make the whole Earth a <hi>Golgotha,</hi> and to pave the <hi>High-ways</hi> with dead mens Skulls? to turn fenced Cities into ruinous heaps, and to endeavour, as far as they can, to deſtroy the Works of God, by erecting thoſe of the Devil, whilſt they ſeek to enravle this beauteous Frame, and to introduce the old <hi>Chaos?</hi> If theſe creſted Plumes, ſwollen up with Cruelty and Carnage, have any pretence to Honour, and if thoſe Arms, ſo deſtructive to Man<g ref="char:EOLhyphen"/>kind, muſt be inrolled in the <hi>Heraldry</hi> of Fame, and painted out in Shields, I hope no ſober mind can deny but this ought to be the Motto, <hi>Vanity of vanities.</hi>
+            </p>
+            <p>And as in the empty bubbles of Ho<g ref="char:EOLhyphen"/>nour, the puff-paſtes of the pride of men, nothing is found but vanity, humane ho<g ref="char:EOLhyphen"/>nour
+<pb n="13" facs="tcp:64136:6"/>
+not being in the honoured, but in the honouring, and ſo the great Poten<g ref="char:EOLhyphen"/>tates borrow their ſplendour from the meaneſt Peaſants and Vaſſals of them; ſo is vanity inſcribed on all the Treaſures of the Earth; for what is gold and ſilver but white and red Clay, made eſtimable only by the folly and covetouſneſs of men? What is there in the Pearls and precious Stones of the World more than in Beads and the Shells of Fiſhes, which ſome <hi>Indians</hi> are willing to purchaſe with expence of any the former, amongſt us accounted valuable? What is the diffe<g ref="char:EOLhyphen"/>rence between a Jewel and its counter<g ref="char:EOLhyphen"/>feit, but our uneven eſtimation? and what good is in all theſe, but from the vain conceits and common follies of mankind? 'Tis reported of the Emperor <hi>Tiberius,</hi> that he hanged an Artiſt who had made Glaſs to endure the ſtroke of the Hammer, <hi>ne aurum prae vitra vileſce<g ref="char:EOLhyphen"/>ret,</hi> leſt gold ſhould loſe its eſtimation; ſo careful was this <hi>Prince</hi> of the reputa<g ref="char:EOLhyphen"/>tion of that metal, I need not ſay cruel or vain, both which the execution mani<g ref="char:EOLhyphen"/>feſts.</p>
+            <p>There was a <hi>Spaniſh</hi> Merchant, who, obſerving what ſome Jewellers had gain<g ref="char:EOLhyphen"/>ed by ſelling of Jewels, ſold all the Land
+<pb n="14" facs="tcp:64136:7"/>
+and Goods he had to buy ſome; on the evening following, when he went to bed, he was diſturbed with this anxious thought (which kept him that night ſleepleſs) what if men ſhould return to their wits, and value theſe Pebbles at their true worth (which is nothing) I were then undone. This tormented him till he had ſold away what he ſo greedily had purchaſed; and did men conſider the vanity of Apparel, ſtript off from the backs of Birds, and Beaſts, and creep<g ref="char:EOLhyphen"/>ing Worms, who can but think every Plume of Feathers and every gawdy Dreſs to be all over <hi>Vanity,</hi> whilſt we, wrapped up in the Skins of Beaſts, think our ſelves more than men, and having ſtript all Animals and Vegetables for Cloathing, we prick up our ſelves and look big, as if thus apparelled, we tri<g ref="char:EOLhyphen"/>umphed over the whole Creation; for<g ref="char:EOLhyphen"/>getting our Wardrobes are filled with Moths, the devourer of all this Bravery, and not remembring the ruſt which is the Canker of our valued Metals, and all theſe laid up in places <hi>where thieves may break through and ſteal,</hi> and ſo deprive us of all thoſe Treaſures, which are hardly acquired with great difficulty, preſerved in ſolicitude of mind, and loſt
+<pb n="15" facs="tcp:64136:7"/>
+with anguiſh and trouble of ſpirit, riches make themſelves wings and flye away; they are ſtyled uncertain riches, <hi>riches</hi> 
+               <note place="margin">Job 20. 15.</note> 
+               <hi>often ſwallowed down and vomited up a<g ref="char:EOLhyphen"/>gain;</hi> often heaping up riches, and knows not who ſhall gather them, <hi>riches are not</hi> 
+               <note place="margin">Prov. 27. 24.</note> 
+               <hi>for ever,</hi> and yet for all this mans vain eye is not ſatisfied with riches, they are uncertain riches, therefore we are advi<g ref="char:EOLhyphen"/>ſed not to truſt in them, and they are ſuch things as are corrupt, and garments moth-eaten; what then are theſe things ſumm'd up, but truly nothing or ſome<g ref="char:EOLhyphen"/>thing worſe than that; that have an ap<g ref="char:EOLhyphen"/>pearance of Treaſure, and are not ſo; that have an appearance of Bravery, as the triangular Glaſs hath of colours, yet indeed have none, that ſerve only to de<g ref="char:EOLhyphen"/>ceive, to abuſe, and to undo us; where<g ref="char:EOLhyphen"/>fore we may ſafely ſay of theſe, as the Poet did of Parentage,
+<q>
+                  <l>
+                     <hi>—Vix ea noſtra voco.</hi>
+                  </l>
+               </q>
+and may label the whole Inventory of theſe things with the Propoſition in the Text, <hi>Vanity of vanities.</hi>
+            </p>
+            <p>But what if riches be vain, muſt plea<g ref="char:EOLhyphen"/>ſures be ſo, thoſe brisk entertainments of Nature, the choice delights of the Sons of men? Were not the Cinque-ports of
+<pb n="16" facs="tcp:64136:8"/>
+the Senſes made to entertain this, and is the ſatisfaction of them to no purpoſe? Did not the <hi>Epicureans</hi> hold the chief good to be in pleaſure? and could ſuch Learned men miſtake nothing for a ſu<g ref="char:EOLhyphen"/>perlative Being? Who will ſhew us any good, is the voice of Nature, and if plea<g ref="char:EOLhyphen"/>ſure be not ſo, what is? Doth not our Preacher ſay in this Book; <hi>Truly the light is ſweet, and a pleaſant thing it is for the</hi> 
+               <note place="margin">Eccl. 11. 7.</note> 
+               <hi>eyes to behold the Sun.</hi> Was it not plea<g ref="char:EOLhyphen"/>ſant to behold <hi>Solomon</hi> in his <hi>Royalty,</hi> and is it not ſo to ſee the <hi>Lillies</hi> in the field better cloathed than he, when the <hi>Spring</hi> hath made the Earth like the Garden of <hi>Eden,</hi> deck'd with all things ſightly and comely, except the Tree of Life, and is the partaking of this rich Carpet, ſpread by the Divinity for our admiration and content, a vanity? Is not beauty a real good? the heart of man loveth nothing better; it is that which triumphed over the ſtrength of <hi>Sampſon,</hi> the holineſs of <hi>David,</hi> the wiſdom of <hi>Solomon,</hi> that which is ſtronger than <hi>Wine,</hi> or a <hi>King,</hi> is that <hi>Vanity?</hi> What are harmonious Sounds, the choice Compoſitions in Mu<g ref="char:EOLhyphen"/>ſick, thoſe raviſhing Airs, which not on<g ref="char:EOLhyphen"/>ly put Humanes in a rapture, but have a power to charm evil Spirits, and to pro<g ref="char:EOLhyphen"/>mote
+<pb n="17" facs="tcp:64136:8"/>
+the effuſion of the good; are not theſe valuable, who could withſtand the voices of theſe Syrens, who had ears, whoſe ſweet chanting drew more effectu<g ref="char:EOLhyphen"/>ally the hearers to them, than the Load<g ref="char:EOLhyphen"/>ſtone Iron? theſe running upon the nimble wings of their will, that dull in moving without theſe, and is the touch and taſte leſs conſiderable? <hi>Philoxenus</hi> wiſhed his throat to have the length of a Cranes, that ſo the pleaſure of a taſte might be produced, and what the blan<g ref="char:EOLhyphen"/>diſhment of the firſt ſtroke of theſe plea<g ref="char:EOLhyphen"/>ſures did not effect, the lengthening of them might increaſe. Are thoſe Perfumes made by Nature, raiſed by Art empty things, which ſill the noſtrils with delight and pleaſure? And if theſe be not great things, ſure the converſation of the witty are? Who would not hear the Eloquent longer than they could ſpeak, and to converſe with the wiſe? Wiſdom maketh a mans face to ſhine, and the hardneſs of his face ſhall be changed. Are not thoſe Verſes valuable, which have been eſteem<g ref="char:EOLhyphen"/>ed more worth than a Crown? Are not their handſom addreſſes and expreſſions of ſuch a tincture, as ſeem to threaten Time to do its worſt, and yet ſubſiſt, when ruſt hath eaten out the Braſs Sta<g ref="char:EOLhyphen"/>tues,
+<pb n="16" facs="tcp:64136:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:64136:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:64136:10"/>
+Water and Air conſumed Marble maſſes, yet theſe ſeem too hard for <hi>Time</hi> to chew, and ſeem to have a duration beyond the meaſure of it; if this be not great, what is? May not mirth be called a real good, and thoſe Feſtivities in diſ<g ref="char:EOLhyphen"/>courſe, which make men forget ſorrow valuable? A <hi>Feaſt</hi> is made for <hi>laughter,</hi> ſays the <hi>Preacher</hi> himſelf; but, Alas! are <note place="margin">Eccleſ. 7. 19.</note> not our ſenſes ſubject to miſtakes? are not their pleaſures quickly tranſient? The pleaſures of them are but points, the diſpleaſures of them Maps and Cards; we have pleaſure by grains, but pain by pounds; the pleaſure of them are bound<g ref="char:EOLhyphen"/>ed by ſaticty, the pains of them infinite: <hi>The eye is not ſatisfied with ſeeing, nor the ear with hearing,</hi> and if the light be pleaſant to the eyes; <hi>If a man live many</hi> 
+               <note place="margin">Eccleſ. 11. 8.</note> 
+               <hi>years, and rejoyce in them all, yet let him remember the days of darkneſs, for they ſhall be many. All that cometh is vanity:</hi> and as for the Lillies of the field, they are made the examples of our frailty. <hi>All fleſh is graſs, and all the glory therof as the flowers of the field, in the morning it is freſh and growing, in the evening cut down and withers.</hi> Doth not Winter, as a rough attendant, take off the flouriſhing Carpet ſpread there by Summer, and
+<pb n="19" facs="tcp:64136:10"/>
+give deaths ſtroke to all the flouriſhing verdure of the field, and make the glory thereof vaniſh? And what was <hi>Solomons</hi> bravery, which could not equal one <hi>ſim<g ref="char:EOLhyphen"/>ple Flower,</hi> nor apparel himſelf like <hi>it?</hi> How do theſe Vegetables vaniſh and ex<g ref="char:EOLhyphen"/>pire, not only in our hands, but on the ſtalks that bear them.
+<q>
+                  <l>
+                     <hi>Miraber celerem fugitivâ aetate ruinam,</hi>
+                  </l>
+                  <l>
+                     <hi>Et dum naſcuntur conſenuiſſe roſas.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>And for <hi>Solomons</hi> bravery, when at the <note place="margin">Pſal. 39. 6.</note> beſt, he walked but as every man doth, in a vain ſhew; and as for beauty, the Preacher in my Text, who had experi<g ref="char:EOLhyphen"/>ence of a thouſand of them, pronounceth that <hi>vain.</hi> What if the heart of man lo<g ref="char:EOLhyphen"/>veth much, <hi>The Lord knows the thoughts</hi> 
+               <note place="margin">Prov. 31. 30. 1 Cor. 3. 20.</note> 
+               <hi>of the wiſe to be vain.</hi> And if the thoughts of the wiſe be ſo, we need not appeal to thoſe fools. What is that glittering earth, that thin appearance being but skin<g ref="char:EOLhyphen"/>deep, which men do ſo much dote on? how ſudden do diſeaſes, and how cer<g ref="char:EOLhyphen"/>tainly doth time make it to appear vain; nay, did men inquire, they might often receive more mortifications from the very objects they admire. And by how much it is leſs reaſonable it ſhould, by ſo much it will trouble diſcerning men to ſee that which is ſo little to have an influence ſo
+<pb n="20" facs="tcp:64136:11"/>
+great, which yet proceeds not from the worth in it ſelf in the examples inſtance, but by the weakneſs contracted by the ſin of <hi>Adam,</hi> whereby mankind is apt to miſtake the leaſt appearance of good for the greateſt; and, as Swine, delight to wallow even in the dirt and mire, as moſt ſuitable to ſinful inclinations, and then 'tis not the Woman that reigns but the ſin; 'tis not the Fly on the Coach-wheel that raiſeth all this duſt, but theſe trot<g ref="char:EOLhyphen"/>ting Luſts, which draw men to perditi<g ref="char:EOLhyphen"/>on; and as <hi>the eye is not ſatisfied with ſeeing, ſo the ear is not with hearing,</hi> un<g ref="char:EOLhyphen"/>leſs <note place="margin">Eccleſ. 1. 8.</note> it be with things that diſpleaſe us. Sweet Sounds dye as ſoon as brought forth, and as the Swan warble out their own Elegies: and if a place be ſo favou<g ref="char:EOLhyphen"/>rable as to yield an Eccho to them, it is all, and by a long winged expreſſion ſeem to make the Epitaph to the dying ſound; and though <hi>Davids</hi> Muſick ſeemed ſome<g ref="char:EOLhyphen"/>times to relieve <hi>Saul,</hi> yet was the Devil too hard for the Harp, which had been too weak a Buckler to have ſaved <hi>David</hi> from <hi>Sauls</hi> Javelin, had not an over<g ref="char:EOLhyphen"/>ruling hand directed <hi>Saul</hi> to miſs his mark. <note place="margin">1 Sam. 18. 11.</note> And for <hi>Eliſha</hi>'s prophecying, excited by a Minſtrel, 'tis probable it was none of the beſt Inſtruments, which may be con<g ref="char:EOLhyphen"/>ceived
+<pb n="21" facs="tcp:64136:11"/>
+by the Prophets indifferency in calling for any, not making choice of conſorts or perſons.</p>
+            <p>And for the Syrene voices, they are beholden to the Poets for improving them, who were willing to ſupport the defects of Nature by their Romantick ſupple<g ref="char:EOLhyphen"/>ments. As to the pleaſures of the touch or taſte, how ſhort are they to the oppo<g ref="char:EOLhyphen"/>ſites of them? pleaſures are feeble, pain forcible, the one momentary, the other fixed. And for <hi>Philoxenus</hi> his wiſh, it reaches no farther than to make a Glur<g ref="char:EOLhyphen"/>ton; when could he have perpetual ap<g ref="char:EOLhyphen"/>petite and conſtant food to entertain it? 'twould be ſo far from the felicity, that it might parallel the Poetical Fiction of <hi>Tantalus</hi> his torment in Hell, who was to have deſirable Fruits hang near his lips, but was not able to touch them. For what is the difference between not feed<g ref="char:EOLhyphen"/>ing and not ſilling. And as for Perfume, beſides the unhealthineſs of many of them, what ſerve they for but to make ill ſmells more odious. And as for witty Conver<g ref="char:EOLhyphen"/>ſation, what is it but a froth which makes much ſhew, but has little ſubſtance. And for the wiſe, <hi>how often are they taken</hi> 
+               <note place="margin">Job 11. 12.</note> 
+               <hi>in their own craft? Vain man would be</hi> 
+               <note place="margin">Job 5. 13.</note> 
+               <hi>wiſe, though he be born as a wild Aſſes
+<pb n="22" facs="tcp:64136:12"/>
+Colt.</hi> God reſpecteth not any that are wiſe in heart, who turneth the wiſe man backward. <hi>Every man is brutiſh by his</hi> 
+               <note place="margin">Jer. 51. 17. Job 37. 24.</note> 
+               <hi>own knowledge. Let not the wiſe man glo<g ref="char:EOLhyphen"/>ry in his wiſdom.</hi>
+            </p>
+            <p>How rightly did old <hi>Socrates</hi> pro<g ref="char:EOLhyphen"/>nounce nullity of wiſdom upon all Man<g ref="char:EOLhyphen"/>kind, when being declared by the Oracle to be the wiſeſt man of <hi>Greece,</hi> profeſſed <note place="margin">Iſa. 44. 25.</note> that he did only know this, which other brain-ſick and conceited men did not, <hi>That he knew nothing;</hi> and now <hi>where is the wiſdom of the wiſe, where is the Scribe,</hi> 
+               <note place="margin">1 Cor. 3. 20.</note> 
+               <hi>where is the diſputer of this world? The Lord knows the thoughts of the wiſe, that they are vain.</hi> Even in thoſe Verſes, which the folly of ſome men have put too great a price on, what is their matter but words, Gibberiſh by common conſent made in<g ref="char:EOLhyphen"/>telligible? and if their duration add to their commendation, ſin, cruelty and many enormous crimes can pretend to a laſting, even beyond theſe. What is there in that Ode of <hi>Horace, Donec gratus eram tibi,</hi> which <hi>Scaliger</hi> prefers before the Crown of <hi>Perſia,</hi> but a recantation of the ſwerving of its affection? And when we have extracted by the greateſt curio<g ref="char:EOLhyphen"/>ſity with our moſt earneſt induſtry, all that can be gathered from the wandring
+<pb n="23" facs="tcp:64136:12"/>
+wits of men, we may ſay with the Poet,</p>
+            <q>
+               <hi>—Vox &amp; praeterea nihil.</hi>
+            </q>
+            <p>And as to mirth, ye have an anſwer of the Preacher; <hi>I have ſaid of laughter it is madneſs, and of mirth, what doſt thou? as the crackling of thorns under a pot, ſo is laughter of a fool, this alſo is vanity.</hi> So as the pain we take to obtain pleaſure is abundantly out-weighed by the pains we ſuffer afterwards for it; man wearieth himſelf for that which doth not profit him: and as the Satyriſt ſaid of the <hi>Pa<g ref="char:EOLhyphen"/>tricians</hi> in his time, whom years had made gray and not grave;
+<q>
+                  <l>
+                     <hi>Et noſtrum iſtic vivere triſte vidimus,</hi>
+                  </l>
+                  <l>
+                     <hi>Et nucibus facimus quaecun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> relictis.</hi>
+                  </l>
+               </q>
+So as when we have laboured and ſpent our ſubſtance to graſp that which we think good; theſe humane things, like Air and Apparitions, ſlip from us, and ſo we embrace a Cloud inſtead of <hi>Juno,</hi> and inherit only the wind, and in our em<g ref="char:EOLhyphen"/>braces the Eaſt wind, which blows away all theſe things, leaving only behind the account of them, which is, <hi>Vanity of va<g ref="char:EOLhyphen"/>nities;</hi> which leads me to the next par<g ref="char:EOLhyphen"/>ticular, the Aſſertor, <hi>ſaith the Preacher.</hi>
+            </p>
+            <p>It was ſaid long ſince, that the World was happy when Kings were Philoſophers, or Philoſophers Kings; and ſhould we
+<pb n="24" facs="tcp:64136:13"/>
+not think the World would be holy, when Preachers were Kings, or Kings Preachers? <hi>Noah</hi> was a Preacher of Righteouſneſs to a World hard of hear<g ref="char:EOLhyphen"/>ing, and here we have in the Text a King that is a Preacher, <hi>I the Preacher was</hi> 
+               <note place="margin">Iſa. 1. 12.</note> 
+               <hi>King over Iſrael in Jeruſalem.</hi> Kings are not uſually Prophets nor Declamours againſt thoſe things which Courts do nurſe; yet there we have a King preach<g ref="char:EOLhyphen"/>ing, a King wiſer than other ſons of men, <hi>Solomon</hi> whoſe Wiſdom the Queen of <hi>Sheba</hi> came ſo far to hear. Who would not hear ſuch a Preacher? who would not give an attentive ear and an obedi<g ref="char:EOLhyphen"/>ent heart to what King <hi>Solomon</hi> ſaid, <hi>Yet behold a greater than Solomon is here.</hi> For the ſame divine Spirit, which of old in<g ref="char:EOLhyphen"/>ſpired the Prophets, and afterwards the Apoſtles, and which preached to the old World in the Patriarch <hi>Noah,</hi> this divine <note place="margin">1 Per. 18, 19, 20.</note> Spirit by <hi>Solomon</hi> ſpeaking; who is ſo hard of hearing, that will not hear this? For, <hi>if the words ſpoken by Angels were ſtedfaſt,</hi> how ſhould this ſpoken by the Spirit of Chriſt be looked on? ſo as we may truly ſay, not only ſaid the Prea<g ref="char:EOLhyphen"/>cher, but thus ſaith the Lord, <hi>Vanity of vanities, Vanity of vanities;</hi> which brings me to the next Particular, the Duplicati<g ref="char:EOLhyphen"/>on of the Aſſertion.</p>
+            <p>
+               <pb n="25" facs="tcp:64136:13"/>
+When <hi>Pharoahs</hi> dream was doubled, <hi>Joſeph</hi> told him, it was becauſe the thing was eſtabliſhed; divine Ecchoes are al<g ref="char:EOLhyphen"/>ways ſignificant, and as always they ſhew the certainty, ſo uſually the importance by a repetition. <hi>Pythagoras</hi> offered a Hecatom for the duplication of the Cube; of how much greater value is this dou<g ref="char:EOLhyphen"/>bling of the Preacher, not terminated in a ſuperficial meaſuring of the outſides of bodies, but giving a true account of the intrinſick Nature, not only of humane bodies, but of worldly actions alſo? Ve<g ref="char:EOLhyphen"/>hement aſſeverations are made by dupli<g ref="char:EOLhyphen"/>cations, <hi>Verily, verily, I ſay unto you.</hi> Chriſt foretold <hi>Peter</hi> before the Cock ſhould crow twice, he ſhould deny him thrice; and the duplication of the Cocks voice was a ſeaſonable Monitor of the Apoſtles fault, and to his repentance alſo. A ſingle expreſſion ſeems not enough to proclaim the vanity of worldly things, it muſt be ingeminated, God ſpeaketh once yea twice, and man perceiveth it not; in a Dream, in a Viſion of the night, when deep ſleep falleth upon men; but here he ſpeaketh to men awake, and doubleth what he ſaith, <hi>Vanity of vanities, Vanity of vanities:</hi> and ſo I deſcend to the laſt Particular, the Univerſality of the Aſſer<g ref="char:EOLhyphen"/>tion, <hi>All is vanity.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:64136:14"/>
+That ſome things of the World are vain and illuſory, ſcarce any will deny; Children are cozened with Toys, men with Oaths <hi>Liſander</hi> ſaid of old; <hi>Hera<g ref="char:EOLhyphen"/>clitus</hi> wept, <hi>Democritus</hi> laughed at the vain courſes held by men, and therefore were thought mad, by thoſe that indeed were little better; as ſober perſons will be looked upon in <hi>Bedlam</hi> amongſt the diſtracted. Mechanical Arts would not take it well to be counted vain; the Sil<g ref="char:EOLhyphen"/>ver-Smiths at <hi>Epheſus</hi> held their crafts valuable, and rather than they ſhould be in danger, would put all in an uproar; and canonize the Fable of <hi>Diana</hi>'s Image as fallen from <hi>Jupiter,</hi> with a <hi>Great is the Diana of the Epheſians.</hi> Liberal Arts tri<g ref="char:EOLhyphen"/>umph as ſerious things; yet what is the Grammar but canting by Rule? What is Rhetorick but a Cadens of words chi<g ref="char:EOLhyphen"/>ming handſomly in the ear? What is Lo<g ref="char:EOLhyphen"/>gick but a delfick Sword, which may be bent this way or that, and arm men by miſtaking Sophiſtry for Truth? How de<g ref="char:EOLhyphen"/>fective is Aſtronomy, which cannot teach us certainly, whether the Sun move or ſtand? How imperfect is Geometry, that cannot meaſure the diſtance between us and the Celeſtial bodies, nor give the ex<g ref="char:EOLhyphen"/>act proportion between a right Line and
+<pb n="27" facs="tcp:64136:14"/>
+a crooked? And how little is Arithme<g ref="char:EOLhyphen"/>tick, that cannot find a number to the defects of Nature? <hi>That which is wanting</hi> 
+               <note place="margin">Eccleſ. 1. 15.</note> 
+               <hi>cannot be numbred.</hi> And what is Muſick but a medly of Concords and Diſcords thrown on heaps, the judgment of which is as various as the Auditors? Hence <hi>Mi<g ref="char:EOLhyphen"/>das</hi> preferred <hi>Pans</hi> Whiſtle to <hi>Apollo's</hi> Viol; for what if Arts be vain, is not Phyſick divine, that can reſtore that which is near to death to health again? Alas! what are all Medicines, when rightly placed and proſperouſly ſucceed, but ſmall differings of approaching death? <hi>Meat for the belly, and the belly for meat, God ſhall deſtroy both it and them.</hi> The Phyſician muſt die as well as his Patient, the caviling Lawyer as well as the coze<g ref="char:EOLhyphen"/>ned Client, the Line is drawn over all worldly things by the unerring Pencil, nothing is excepted; <hi>Vanity of vanities,</hi> (ſaith the Preacher) <hi>all is vanity.</hi>
+            </p>
+            <p>This Poſition may be improved to caſt into the Scale of the Sanctuary all world<g ref="char:EOLhyphen"/>ly things, and that will inform us how light, how empty theſe are. A ſingle va<g ref="char:EOLhyphen"/>nity is not ſufficient to expreſs it, you have a Gradation, <hi>Vanity of vanities.</hi>
+            </p>
+            <p>Secondly, It pointeth what eſtimation we ſhould have of theſe things: no other
+<pb n="28" facs="tcp:64136:15"/>
+than of Vanities, and that by Gradation, <hi>Vanity of vanities.</hi> The Aſſertor gives us the certainty of the Aſſertion; 'tis not the ſaying of an ignorant man; nor is it ſaid probably or problematically, but poſitively, <hi>ſaith the Preacher,</hi> ſaid he who had Wiſdom above all Mortals. But this is not all, ſays he, who is the Wiſdom of God, by the Pen of <hi>Solomon,</hi> who made all Mortals, ſo as this truth is not to be doubted, being uttered by the God of Truth, <hi>Vanity of vanities, Vanity of vani<g ref="char:EOLhyphen"/>ties</hi> (ſaith the Preacher.)</p>
+            <p>From the Duplication we may draw the importance of the truth as well as the certainty thereof; and therefore we ſhould be doubly diligent to awaken our hearts, to quell the inordinate love of earthly things, to ſee the emptineſs and nothingneſs of them lively expreſſed in the twice vanity thereof; to remember to abſtain from thoſe fleſhly vanities which fight againſt the ſoul; to double the files of our thoughts, and fortifie our imaginations againſt being carried away with the trifles and dotages of this World, with the empty Pomps and petty Pageantry of Wax and Parchment, of the fading breaths and falſe acclamations of men, or with fleeting things, which ſome<g ref="char:EOLhyphen"/>times
+<pb n="29" facs="tcp:64136:15"/>
+attend a waſting life, the neceſſary Uſhers to a certain death; to know we are here as ſtrangers and pilgrims, tra<g ref="char:EOLhyphen"/>vellers, not dwellers, ſuch as death will draw from our houſes, or adverſity them from us; to winde up our bottom upon ſtable things, to ſee the difference be<g ref="char:EOLhyphen"/>tween counterfeit Ware and true Riches, between worldly Pelf and everlaſting Righteouſneſs, between the deceit of ap<g ref="char:EOLhyphen"/>pearances and reality of good, between walking in a vain ſhow, and waiting for <hi>a new Heaven and a new Earth, wherein dwells Righteouſneſs.</hi>
+            </p>
+            <p>From the Univerſality of the Aſſertion we may learn, that it is not one or two particular things which are <hi>Vanity;</hi> the whole Syſtem of worldly things, <hi>the Creature it ſelf is ſubject to vanity, and groaneth under the bondage of corruption:</hi> So that it is not this or that, but <hi>all is va<g ref="char:EOLhyphen"/>nity;</hi> and not ſingly ſo, but in gradati<g ref="char:EOLhyphen"/>on, <hi>Vanity of vanities.</hi> Whatſoever good appears is momentany and unſatisfactory; whence it is, that humane deſires hunt after varieties, inidentities, and pleaſe themſelves with ſomewhat new, though there be nothing ſo but what number makes. <hi>Pliny</hi> ſpeaks of ſome Inhabitants in <hi>Aſia,</hi> who not wearied with adverſity,
+<pb n="30" facs="tcp:64136:16"/>
+but ſurfeited with proſperities of this life, tired with the repetition of earth<g ref="char:EOLhyphen"/>ly things, caſt themſelves into the Sea to avoid an irkſom life, which doing the ſame things ſo many thouſand times over and over, make that to them intolerable, which moſt of Mankind do eſteem de<g ref="char:EOLhyphen"/>ſirable. Where then ſhould we place our thoughts, ſeeing nothing is to be found here but <hi>Vanity of vanities;</hi> but <hi>on that City which has foundation, whoſe builder and maker is God.</hi> That leaving the purſuit of theſe earthly trifles, we may be mortified, not only toward all evil, but toward all earthly things, that ſo aſcending in our thoughts, and aſpi<g ref="char:EOLhyphen"/>ring by our endeavours to ſurmount this World, and to get the aſcendant as to our appetites towards theſe tranſitory things, we may arrive at that bleſſed Region, where there is no Time but Eternity, no Accurant but Felicity, no Change but Perpetuity, and where there is no Vanity but a bleſſed Stability, where an infinite good ſhall everla<g ref="char:EOLhyphen"/>ſtingly entertain ſuch as have wiſely judged, and righteouſly walked in this World, <hi>with thoſe Joys that are at his right hand for evermore, which neither eye hath ſeen, nor ear heard, nor the heart of
+<pb n="31" facs="tcp:64136:16"/>
+man hath conceived.</hi> So as they that have walked as they ſhould in this Val<g ref="char:EOLhyphen"/>ley of Tears, ſhall be there transfigured and tranſplanted into eternal Glory. Which God of his infinite mercy grant us all for his Son Jeſus Chriſt's ſake, to whom with the Father and the Holy Ghoſt, be all Glory and Honour.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
